@@ -1,40 +1,40 @@
 body {
-	background-color:#171D03 ;
+	background-color: #B9CCD2;
 }
 
 #border1 {
 	position: relative;
 	border-style: solid;
-	border-color :black;
+	border-color :white;
 	border-width: 5px;
 }
 #border2 {
 	position: relative;
 	border-style: solid;
-	border-color: red;
+	border-color: #FBA763;
 	border-width: 20px;
 }
 #border3 {
 	position: relative;
 	border-style: solid;
-	border-color: black;
+	border-color: white;
 	border-width: 5px;
 }
 .h1 {
 	position: relative;
-	color: black;
-	-webkit-text-stroke: 4px #FBD064;
+	color: #FBA763;
+	-webkit-text-stroke: 2px white;
 	text-align: center; 
 	font-size: 100px;
-	font-family: Gill Sans;
+	font-family: Century Gothic;
 }
 .h2 {
 	position: relative;
-	color: blue;
-	-webkit-text-stroke: 4px Black;
+	color: #FBA763;
+	-webkit-text-stroke: 1px gray;
 	text-align: center; 
-	font-size: 60px;
-	font-family: Impact;
+	font-size: 70px;
+	font-family: Gil Sans;
 }
 .left {
 	position: absolute;
@@ -90,7 +90,7 @@ body {
 	width: 840px;
 	height: 770px;
 	background-color: #171D03;
-	border: 40px solid #FC6500;
+	border: 40px solid gray;
 }
 #border4 {
 	position: relative;
