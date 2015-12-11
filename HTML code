@@ -1,25 +1,26 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<link type="text/css" rel="stylesheet" href="THE 4 SEASONS.css"/>
-		<script type="text/javascript" src="THE 4 SEASONS.js"></script>
+		<link type="text/css" rel="stylesheet" href="SeasonalScore.css"/>
+		<script type="text/javascript" src="SeasonalScore.js"></script>
 		<title>THE4SEASONS</title>
 		<script>
 		var bleep = new Audio();
-		bleep.src = "coldwinter.mp3";
+		bleep.src = "winter.mp3";
 		var bleep1 = new Audio();
-		bleep1.src = "musicbox.mp3";
+		bleep1.src = "spring.mp3";
 		var bleep2 = new Audio();
-		bleep2.src = "ocean.mp3";
+		bleep2.src = "summer.mp3";
 		var bleep3 = new Audio();
-		bleep3.src = "leavesfalling.mp3";
+		bleep3.src = "fall.mp3";
 		</script>
 	</head>
 			<body>
 				<div id="border1">
 					<div id="border2">
 						<div id="border3">
-							<div class="h1"<h1>THE 4 SEASONS</h1></div>
+							<div class="h1"<h1>Seasonal Score</h1></div>
+							<div class="h2"<h2>Lullabies of the seasons</h2></div>
 								<p>
 								   
 									<nav id="nav1">
