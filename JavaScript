@@ -1,0 +1,10 @@
+<script type='text/javascript'>
+    var model = {"CurrentFilesLocation":"Current files location:","CurrentFilesLocationDescription":"All the files should be located in the same folder as your html page","MainTitle":"To embed video to your webpage","NeedToShowAdv":true,"Title1":"Upload these files from the output folder to your server","Title2":"Copy this code","Title3":"Paste the code to your webpage between the tags","VideoDatas":[{"__type":"Html5VideoData:#ConverterCommon.Tools.Flash","FolderPath":"C:\\Users\\Owner\\Videos\\My Movie","Height":480,"Href":"http:\/\/www.freemake.com\/free_video_converter\/","HrefText":"video converter","Width":640,"H264FileName":"My Movie.mp4","TheoraFileName":"My Movie.ogv","WebMFileName":"My Movie.webm"}]}
+</script>
+$('#ma_link').click(function(e) {
+     // do something fancy
+     return false; // prevent default click action from happening!
+     e.preventDefault(); // same thing as above
+});
+
+</script>
